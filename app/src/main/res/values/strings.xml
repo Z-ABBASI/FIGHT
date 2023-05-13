@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FIGHT</string>
+    <string name="USERNAME">USERNAME</string>
+    <string name="PASSWORD">PASSWORD</string>
+    <string name="CONFIRM_PASSWORD">CONFIRM PASSWORD</string>
+    <string name="FIGHT">FIGHT</string>
+    <string name="HEROES">HEROES</string>
+    <string name="WEAPONS">WEAPONS</string>
+    <string name="STORE">STORE</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="CREATE_AN_ACCOUNT">CREATE AN ACCOUNT</string>
+    <string name="ADMIN">ADMIN</string>
+    <string name="LOGOUT">LOGOUT</string>
+    <string name="MAKE_ACCOUNT">MAKE ACCOUNT</string>
+    <string name="ADMIN_USER_SETTINGS">USER SETTINGS</string>
+    <string name="TROUBLESHOOT">TROUBLESHOOT</string>
+    <string name="PERMISSIONS">PERMISSIONS</string>
+</resources>
